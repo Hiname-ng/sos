@@ -1,0 +1,48 @@
+.SIR {
+margin:auto; width:510px; text-align:left; 
+}
+.cdtSIR{
+position:absolute; z-index:3; margin-top:25px; margin-left:-4px; 
+transform:scale(0); -webkit-transform:scale(0); transition:transform ease-in-out 0.95s; -webkit-transition:-webkit-transform ease-in-out 0.95s;
+}
+.SIR:hover .cdtSIR {
+transform:scale(1); -webkit-transform:scale(1);
+}
+.topSIR {
+width:500px; height:100px; overflow:hidden;
+box-shadow:0 0 3px rgba(0,0,0,0.2); 
+}
+.imgSIR {
+position:relative; width:500px; height:100px; 
+}
+.imgSIR img{
+position:absolute; z-index:1; 
+width:500px; height:100px;  
+transition:all 1s linear; -webkit-transition:all 1s linear;
+}
+.imgSIR:hover img{
+margin-left:-400px; 
+}
+.imgSIR span:nth-of-type(1){
+display:inline-block; vertical-align:middle; width:100px; height:100px;
+}
+.imgSIR p{
+display:inline-block; vertical-align:middle; margin:0;
+width:380px; max-height:80px; padding:10px; overflow-y:auto;
+text-align:center; font-size:10px; line-height:normal; font-family:PT Sans;
+}
+.msgSIR {
+margin-left:35px; width:475px; height:auto; border-left:1px dotted; 
+}
+.tleSIR {
+float:right; width:auto; max-width:305px; height:auto; padding-top:2px; padding-left:10px;
+text-align:right; font-size:20px; font-weight:bold; text-transform:uppercase; font-family:PT Sans; line-height:18px;
+}
+.msgSIR p{
+width:470px; min-height:105px; padding-left:5px; 
+text-align:justify; font-size:11px; font-family:PT Sans; line-height:14px;
+}
+.decoSIR {
+position:absolute; margin-top:-60px; margin-left:1px;
+width:35px; height:50px; 
+}
