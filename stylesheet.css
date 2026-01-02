@@ -9,7 +9,7 @@ transform:scale(0); -webkit-transform:scale(0); transition:transform ease-in-out
 transform:scale(1); -webkit-transform:scale(1);
 }
 .topSIR {
-margin-left:10px; width:500px; height:100px; overflow:hidden;
+width:500px; height:100px; overflow:hidden;
 box-shadow:0 0 3px rgba(0,0,0,0.2); 
 }
 .imgSIR {
