@@ -39,7 +39,7 @@ float:right; width:auto; max-width:305px; height:auto; padding-top:2px; padding-
 text-align:right; font-size:20px; font-weight:bold; text-transform:uppercase; font-family:PT Sans; line-height:18px;
 }
 .msgSIR p{
-width:470px; min-height:105px; padding-left:5px; 
+width:470px; min-height:105px; padding-left:5px; padding-right:5px;
 text-align:justify; font-size:11px; font-family:PT Sans; line-height:14px;
 }
 .decoSIR {
