@@ -35,7 +35,7 @@ text-align:center; font-size:10px; line-height:normal; font-family:PT Sans;
 margin-left:10px; width:475px; height:auto; border-left:1px dotted; border-right:1px dotted; border-color: #D3D3D3;
 }
 .tleSIR {
-float:right; width:auto; max-width:305px; height:auto; padding-top:2px; padding-left:10px;
+float:right; width:auto; max-width:305px; height:auto; padding-top:2px; padding-left:10px; padding-right:5px;
 text-align:right; font-size:20px; font-weight:bold; text-transform:uppercase; font-family:PT Sans; line-height:18px;
 }
 .msgSIR p{
