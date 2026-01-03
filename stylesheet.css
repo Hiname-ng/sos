@@ -41,7 +41,7 @@ text-align:right; font-size:20px; font-weight:bold; text-transform:uppercase; fo
 }
 .msgSIR p{
 min-height:105px; padding:5px;
-text-align:justify; font-size:12px; font-family:PT Sans; line-height:14px;
+text-align:justify; line-height:14px;
 }
 .decoSIR {
 position:absolute; margin-top:-60px; margin-left:1px;
