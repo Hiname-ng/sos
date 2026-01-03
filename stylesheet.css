@@ -32,7 +32,7 @@ width:380px; max-height:80px; padding:10px; overflow-y:auto;
 text-align:center; font-size:10px; line-height:normal; font-family:PT Sans;
 }
 .msgSIR {
-margin-left:10px; width:475px; height:auto; border-left:1px dotted; 
+width:475px; height:auto; border-left:1px dotted; 
 }
 .tleSIR {
 float:right; width:auto; max-width:305px; height:auto; padding-top:2px; padding-left:10px;
