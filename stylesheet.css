@@ -28,7 +28,7 @@ display:inline-block; vertical-align:middle; width:100px; height:100px;
 }
 .imgSIR p{
 display:inline-block; vertical-align:middle; margin:0;
-width:500px; max-height:80px; padding:10px; overflow-y:auto;
+width:500px; max-height:80px; padding-top:50%; padding-bottom:50%; overflow-y:auto;
 text-align:center; font-size:10px; line-height:normal; font-family:PT Sans;
 }
 .msgSIR {
